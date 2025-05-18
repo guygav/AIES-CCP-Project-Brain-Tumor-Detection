@@ -96,7 +96,42 @@ An interactive web app built with Streamlit:
 
 ## 💻 Installation & Usage
 
+## 💻 Installation & Usage
+
 ### 1. Clone the Repository
-```bash
+'''```bash
 git clone https://github.com/Anum-Mateen/brain-tumor-detection.git
-cd brain-tumor-detection-cnn
+cd brain-tumor-detection-cnn ```
+'''
+
+### 2. Install Dependencies
+'''pip install -r requirements.txt'''
+
+### 3. Run the Streamlit App
+'''streamlit run app.py'''
+Upload an MRI image in the browser to get an instant prediction.
+
+## 🛠️ Tools & Libraries Used
+
+- Python
+- TensorFlow / Keras
+- OpenCV (opencv-python)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Streamlit
+- Pillow (PIL)
+- Imutils
+- Scikit-learn
+
+## 📄 License
+
+This project is licensed under the MIT License.
+See the LICENSE(https://github.com/Anum-Mateen/Brain-Tumor-Detection/blob/main/LICENSE) file for more details.
+
+## 🙌 Acknowledgements
+
+- Kaggle: Brain MRI Dataset
+- The Cancer Imaging Archive (TCIA)
+- Pre-trained models from TensorFlow/Keras Model Zoo
