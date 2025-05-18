@@ -1,6 +1,6 @@
-# 🧠 Brain Tumor Detection using CNN & VGG-16
+# 🧠 Brain Tumor Detection using CNN & VGG-19
 
-**📘 Course:** CT-377 – Artificial Intelligence & Expert System  
+**📘 Course:** CT-361 – Artificial Intelligence & Expert System  
 **🏛️ University:** NED University of Engineering and Technology  
 **📅 Complex Computing Project**
 
@@ -68,7 +68,7 @@ Traditional brain tumor diagnosis through biopsy is invasive, expensive, and tim
 
 This project includes:
 - 📷 MRI image classification using deep learning
-- 🧠 Custom CNN and transfer learning models (VGG-16, ResNet50, MobileNet)
+- 🧠 Custom CNN and transfer learning models (VGG-19, ResNet50, MobileNet)
 - 🌐 Deployment via a Streamlit app for real-time predictions
 
 ## 🗂️ Dataset
@@ -110,7 +110,7 @@ This project includes:
 
 ### 🔹 Transfer Learning Models
 - **Pre-trained Architectures**:  
-  - VGG-16  
+  - VGG-19  
   - ResNet50  
   - MobileNet
 
@@ -119,13 +119,13 @@ This project includes:
 - Fine-tuning deeper layers
 - Transferring knowledge from ImageNet weights
 
-## 🖥️ VGG-16 Model Details
+## 🖥️ VGG-19 Model Details
 
 ### 🎯 Goal
-Classify MRI scans to determine tumor presence using the VGG-16 architecture.
+Classify MRI scans to determine tumor presence using the VGG-19 architecture.
 
 ### ⚙️ Configuration
-- **Architecture**: VGG-16
+- **Architecture**: VGG-19
 - **Transfer Learning**: Pre-trained on ImageNet
 - **Fine-Tuning**: Applied to deeper layers for domain-specific learning
 
@@ -149,7 +149,7 @@ An interactive web app built with Streamlit:
 
 ## 📊 Overall Project Results
 
-| Metric               | Custom CNN | VGG-16 |
+| Metric               | Custom CNN | VGG-19 |
 |----------------------|------------|--------|
 | Validation Accuracy  | 65.26%     | ~88%   |
 | Test Accuracy        | 66.77%     | ~80%   |
@@ -206,7 +206,7 @@ with zipfile.ZipFile(zip_path, 'r') as zip_ref:
 
 ### 📊 5. Start Training or Inference
 Once the dataset is unzipped and libraries installed, you can:
-- Train your CNN/VGG-16 model
+- Train your CNN/VGG-19 model
 - Load a saved model and predict on new images
 
 ## 🛠️ Tools & Libraries Used
