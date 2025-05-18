@@ -103,10 +103,14 @@ cd brain-tumor-detection-cnn
 ```
 
 ### 2. Install Dependencies
+```
 pip install -r requirements.txt
+```
 
 ### 3. Run the Streamlit App
+```
 streamlit run app.py
+```
 Upload an MRI image in the browser to get an instant prediction.
 
 ## 🛠️ Tools & Libraries Used
