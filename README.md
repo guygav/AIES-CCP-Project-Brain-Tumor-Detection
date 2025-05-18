@@ -96,19 +96,17 @@ An interactive web app built with Streamlit:
 
 ## 💻 Installation & Usage
 
-## 💻 Installation & Usage
-
 ### 1. Clone the Repository
-'''```bash
+'```bash
 git clone https://github.com/Anum-Mateen/brain-tumor-detection.git
-cd brain-tumor-detection-cnn ```
-'''
+cd brain-tumor-detection-cnn'
+
 
 ### 2. Install Dependencies
-'''pip install -r requirements.txt'''
+pip install -r requirements.txt
 
 ### 3. Run the Streamlit App
-'''streamlit run app.py'''
+streamlit run app.py
 Upload an MRI image in the browser to get an instant prediction.
 
 ## 🛠️ Tools & Libraries Used
