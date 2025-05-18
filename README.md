@@ -1,5 +1,61 @@
 # 🧠 Brain Tumor Detection using CNN & VGG-16
 
+**📘 Course:** CT-377 – Artificial Intelligence & Expert System  
+**🏛️ University:** NED University of Engineering and Technology  
+**📅 Complex Computing Project**
+
+---
+
+## 👥 Team Members and Roles
+
+| Member No. | Name           | Responsibilities |
+|------------|----------------|------------------|
+| **1**      | Mehak Ejaz     | 📌 Introduction, Dataset Collection & Exploratory Data Analysis |
+| **2**      | Ayesha Majid   | 🧪 Data Preprocessing, Data Augmentation & Data Splitting |
+| **3**      | Anum Mateen    | 🧠 CNN Model Architecture, Training, Evaluation & Performance Analysis |
+| **4**      | Hafsa Usman    | 🌐 Streamlit Application, Software Tools, Final Integration & Deployment |
+
+---
+
+## 🧾 Section-wise Distribution
+
+### 🔹 Member 1: Mehak Ejaz
+- **Section 1:** Introduction (Background, Objective)
+- **Section 2:** Literature Review
+- **Section 3.1:** Data Collection
+- **Section 3.2.1:** Data Organization
+- **Section 3.2.2:** Exploratory Data Analysis (Class Distribution, Visualization, Image Characteristics)
+
+### 🔹 Member 2: Ayesha Majid
+- **Section 3.2.3:** Data Augmentation
+- **Section 3.2.4:** Data Preparation (Resizing, Normalization, Label Encoding)
+- **Section 3.2.5:** Data Splitting (Stratified Shuffle & Test Split)
+
+### 🔹 Member 3: Anum Mateen
+- **Section 3.3:** CNN Model Building (Architecture Design + Use of Pre-trained VGG19)
+- **Section 5.1:** Performance Enhancement (Transfer Learning, Fine-Tuning, Freezing Layers)
+- **Section 5.2:** Training Accuracy and Loss Visualization
+- **Model Training & Evaluation Code**
+
+### 🔹 Member 4: Hafsa Usman
+- **Section 3.4:** Streamlit Web Application
+- **Section 4.1:** Software and Tools Used
+- **Section 5:** Results and Deployment
+- **Section 6:** Conclusion
+
+---
+
+## ✅ Project Features
+- Deep Learning-based Brain Tumor Classification
+- VGG19-based CNN Architecture
+- Preprocessing with OpenCV & Keras
+- Real-time Web App using Streamlit
+- Model Evaluation using Accuracy & Loss plots
+
+---
+
+> This project was developed as part of the CT-377 Artificial Intelligence & Expert System course at **NED University of Engineering & Technology**.
+
 ## 📌 Overview
 
 Traditional brain tumor diagnosis through biopsy is invasive, expensive, and time-consuming. With the power of deep learning, this project uses Convolutional Neural Networks (CNNs) to classify brain MRI scans as **Tumor** or **No Tumor**, enabling fast, non-invasive diagnosis.
