@@ -8,12 +8,12 @@
 
 ## 👥 Team Members and Roles
 
-| Member No. | Name           | Responsibilities |
-|------------|----------------|------------------|
-| **1**      | Mehak Ejaz     | 📌 Introduction, Dataset Collection & Exploratory Data Analysis |
-| **2**      | Ayesha Majid   | 🧪 Data Preprocessing, Data Augmentation & Data Splitting |
-| **3**      | Anum Mateen    | 🧠 CNN Model Architecture, Training, Evaluation & Performance Analysis |
-| **4**      | Hafsa Usman    | 🌐 Streamlit Application, Software Tools, Final Integration & Deployment |
+| Member No. | Roll No.   | Name           | Responsibilities |
+|------------|------------|----------------|------------------|
+|   **1**    | **CR-001** | Mehak Ejaz     | 📌 Introduction, Dataset Collection & Exploratory Data Analysis |
+|   **2**    | **CR-026** | Ayesha Majid   | 🧪 Data Preprocessing, Data Augmentation & Data Splitting |
+|   **3**    | **CR-002** | Anum Mateen    | 🧠 CNN Model Architecture, Training, Evaluation & Performance Analysis |
+|   **4**    | **CR-003** | Hafsa Usman    | 🌐 Streamlit Application, Software Tools, Final Integration & Deployment |
 
 ---
 
