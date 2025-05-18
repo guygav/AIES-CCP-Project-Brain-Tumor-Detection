@@ -117,7 +117,7 @@ Upload an MRI image in the browser to get an instant prediction.
 
 ### ✅ 1. Open the Colab Notebook
 ```
-Link: (Add your notebook link here)
+Link: https://colab.research.google.com/
 ```
 
 ### 📂 2. Mount Google Drive
@@ -127,7 +127,8 @@ drive.mount('/content/drive')
 ```
 
 ### 📦 3. Install Required Libraries
-```
+Run the following cell at the beginning of your notebook:
+```python
 !pip install tensorflow keras opencv-python matplotlib seaborn streamlit scikit-learn imutils
 ```
 
