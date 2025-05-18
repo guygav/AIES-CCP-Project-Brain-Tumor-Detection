@@ -1,3 +1,7 @@
+#Force TensorFlow to not use GPU — this will use RAM instead (slower, but it works):
+import os
+os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+
 import streamlit as st
 import cv2
 import numpy as np
@@ -65,7 +69,7 @@ def crop_brain_tumor(image, plot=False):
 
 # Load the model and weights
 model = create_model()
-model.load_weights("vgg19_model_03.weights.h5")  # Path to your weights file
+model.load_weights("/content/drive/MyDrive/Brain-Tumor-Detection/model_weights/vgg19_model_02.weights.h5")  # Path to your weights file
 
 # Title and description
 st.title("Brain Tumor Detection")
