@@ -97,10 +97,9 @@ An interactive web app built with Streamlit:
 ## 💻 Installation & Usage
 
 ### 1. Clone the Repository
-'''```bash
+''' ```bash
 git clone https://github.com/Anum-Mateen/brain-tumor-detection.git
 cd brain-tumor-detection-cnn '''
-
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
