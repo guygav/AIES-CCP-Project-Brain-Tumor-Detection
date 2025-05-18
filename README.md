@@ -226,7 +226,7 @@ Once the dataset is unzipped and libraries installed, you can:
 ## 📄 License
 
 This project is licensed under the MIT License.
-See the LICENSE(https://github.com/Anum-Mateen/Brain-Tumor-Detection/blob/main/LICENSE) file for more details.
+See the [LICENSE](https://github.com/Anum-Mateen/Brain-Tumor-Detection/blob/main/LICENSE) file for more details.
 
 ## 🙌 Acknowledgements
 
