@@ -6,6 +6,13 @@
 
 ---
 
+## 📺 Complete Project Video Explanation
+**Watch the full project walkthrough and explanation here:**
+
+🔗 https://youtube.com/playlist?list=PLQB3mO-VhKGJBIx6x7nNTTCT3SO8juC7P&si=pAQQuLww_9qR80Qn 
+
+---
+
 ## 👥 Team Members and Roles
 
 | Member No. | Roll No.   | Name           | Responsibilities |
