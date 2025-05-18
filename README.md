@@ -113,6 +113,39 @@ streamlit run app.py
 ```
 Upload an MRI image in the browser to get an instant prediction.
 
+## 💻 Running on Google Colab
+
+### ✅ 1. Open the Colab Notebook
+```
+Link: (Add your notebook link here)
+```
+
+### 📂 2. Mount Google Drive
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+### 📦 3. Install Required Libraries
+```
+!pip install tensorflow keras opencv-python matplotlib seaborn streamlit scikit-learn imutils
+```
+
+### 🗃️ 4. Unzip Dataset (if in Drive)
+```
+import zipfile
+zip_path = '/content/drive/MyDrive/BrainTumorProject/data.zip'  # Change to your path
+extract_path = '/content/data'
+
+with zipfile.ZipFile(zip_path, 'r') as zip_ref:
+    zip_ref.extractall(extract_path)
+```
+
+### 📊 5. Start Training or Inference
+Once the dataset is unzipped and libraries installed, you can:
+- Train your CNN/VGG-16 model
+- Load a saved model and predict on new images
+
 ## 🛠️ Tools & Libraries Used
 
 - Python
